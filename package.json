@@ -1,7 +1,7 @@
 {
-  "name": "Altan Bermejo",
+  "name": "Educator JS Codespaces Template",
   "version": "1.0.0",
-  "description": "Altan Bermejo",
+  "description": "Educator JS Codespaces Template",
   "source": "src/index.html",
   "homepage": "https://Altan-X.github.io/codespace",
   "scripts": {
